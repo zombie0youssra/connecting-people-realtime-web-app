@@ -1,18 +1,20 @@
-# Realtime Web App
+# Connecting People - Realtime Web App
+
+Om de klantrelatie te bestendigen ontwikkel je bij wijze van relatiegeschenk een realtime toepassing voor een bestaande opdrachtgever. Je kiest een opdrachtgever waar je het afgelopen jaar met plezier mee hebt samengewerkt. Verbaas ze met jouw eigen initiatief en jouw capaciteiten en versterk daarmee de relatie.
 
 ## Context
 
-Deze leertaak hoort bij de sprint Connecting People. Dit is een autonomous leertaak die je in een team uitvoert voor een bedrijf naar keuze.
+Deze leertaak hoort bij sprint 11 "Connecting People". Dit is een leertaak die je in een team uitvoert voor een opdrachtgever.
 
-## Briefing
-
-Om de klantrelatie te bestendigen ontwikkel je bij wijze van relatiegeschenk een realtime toepassing voor een bestaande opdrachtgever. Je kiest een opdrachtgever waar je het afgelopen jaar met plezier mee hebt samengewerkt. Verbaas ze met jouw eigen initiatief en jouw capaciteiten en versterk daarmee de relatie.
+In het college S11W1-01-Sprintplanning-Connecting-People en de workshop S11W1- en S11W1-02-My-first-chatroom wordt de opdracht en de werkwijze uitgelegd.
 
 ## Doel van deze opdracht
 
 Je maakt in deze leertaak een real-time applicatie waarmee mensen direct met elkaar in verbinding staan om te chatten, berichten te sturen, vragen te stellen, een chatbot te gebruiken, of iets anders.
 
 ## Werkwijze
+
+Je werkt in een team van max. 3 frontenders aan een website voor een opdrachtgever. Zorg er voor dat je duidelijk afspraken maakt en elkaar dagelijks op de hoogte houdt van vorderingen. Samen met jouw team ben je verantwoordelijk voor de planning, het samenwerkingsproces én het eindresultaat.
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
