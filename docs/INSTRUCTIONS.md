@@ -21,20 +21,12 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
 
-<details>
-<summary>Aanpak</summary>
-
 1. Houdt een brainstorm over het te realiseren realtime product
 2. Maak een morphological chart om systematisch ideeën te genereren
 3. Zorg dat je tenminste 10 ideeën hebt verzamelt voor je verder gaat.
 
-</details>
-
 ### Ontwerpen
 *In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
-
-<details>
-<summary>Aanpak</summary>
 
 1. Kies onderbouwd een van de ideeën en maak daar een ontwerp voor
 2. Begin met het schetsen van wireframes, check die bij een docent en verbeter ze.
@@ -42,47 +34,29 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 4. Maak de schematische weergave van de state van jouw applicatie in een process-flow.
 5. Laat zien welke socket verbindingen gelegd worden in een data-lifecycle diagram.
 
-</details>
-
 ### Bouwen
 *In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
-
-<details>
-<summary>Aanpak</summary>
 
 1. Initialiseer een node/express/ejs omgeving en installeer socket.io
 2. Zorg dat er serverside en client-side naar basis events geluisterd wordt.
 3. Implementeer in kleine stapjes de functionaliteit voor jouw toepassing. Deel als het nodig is de stapjes in met behulp van een docent.
 
-</details>
-
 ### Integreren
 *In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
-
-<details>
-<summary>Aanpak</summary>
 
 1. Integreer jouw real-time web app in de bestaande website van de opdrachtgever (kopieer een losse webpagina op Github) zodat duidelijk wordt hoe jouw toepassing geïntegreerd kan worden.
 2. Publiceer jouw project via bijv. Vercel of Heroku
 
-</details>
-
 ### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
-<details>
-<summary>Aanpak</summary>
-
 1. Test jouw toepassing zorgvuldig
 2. Presenteer jouw relatiegeschenk aan de opdrachtgever.
-
-</details>
 
 ## Criteria
 *Definitions of done*
 
 Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server. 
-
 
 ### Deze leertaak hoort bij de gedragscriteria:
 
