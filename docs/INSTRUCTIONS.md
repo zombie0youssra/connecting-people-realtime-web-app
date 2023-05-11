@@ -72,8 +72,8 @@ L: Je maakt aangeboden en zelf gevonden materie eigen en gebruikt dit bij leerta
 
 Deze opdracht is done als:
 
-[ ] - Er staat een werkende real-time web app online en deze is door meerdere gebruikers tegelijk te gebruiken
-[ ] - De functionaliteit werkt zoals verwacht
-[ ] - De app is gedocumenteerd in de Readme van het project
-[ ] - Alle beslissingen zijn navolgbaar in de wiki van het project
-[ ] - De opdrachtgever is blij verrast met het resultaat
+- [ ] Er staat een werkende real-time web app online en deze is door meerdere gebruikers tegelijk te gebruiken
+- [ ] De functionaliteit werkt zoals verwacht
+- [ ] De app is gedocumenteerd in de Readme van het project
+- [ ] Alle beslissingen zijn navolgbaar in de wiki van het project.
+- [ ] De opdrachtgever is blij verrast met het resultaat
