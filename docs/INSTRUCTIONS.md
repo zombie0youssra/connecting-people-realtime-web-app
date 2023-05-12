@@ -30,6 +30,8 @@ In de analysefase herzie je als team afspraken over hoe je gaat samenwerken.
 
 #### Materiaal voor samenwerken
 
+- [Adaptable.io](https://adaptable.io/)
+- [Railway](https://railway.app/)
 - [How to Collaborate on GitHub](https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)
 - [download het Team Canvas](https://github.com/fdnd-task/performance-matters-fast-website/blob/main/docs/Teamcanvas.pdf)
 - [Lees instructies over het gebruik van het Teamcanvas in de deeltaak uit sprint 1](https://github.com/fdnd-task/your-tribe-team-canvas)
@@ -77,6 +79,12 @@ In de bouwfase realiseer je de beslissingen uit de ontwerpfase.
 
 ProTip: Je kunt je functionaliteit het beste op een losse branch uitwerken, deze branch kan je als dev-project in Adaptable of Railway live brengen zodat je live kunt testen.
 
+#### Materiaal bouwfase
+
+- [socket.io](https://socket.io/)
+- [socket.io documentatie](https://socket.io/docs/v4/)
+- [Barebonechat voorbeeld van ju5tu5@github](https://github.com/ju5tu5/barebonechat)
+
 ### Integreren
 In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien en er op verder kan bouwen. 
 
@@ -85,10 +93,18 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien en 
 3. Handel het *pull-request* af, zorg voor een helder gedocumenteerd *pull-request* door bij de afhandeling relevante berichten te typen. Neem een screenshot van *pull-requests* op in je wiki!
 4. Publiceer jouw project via bijv. Adaptable of Railway (nb. cyclic ondersteund helaas geen sockets!)
 
+
+#### Materiaal integratiefase
+
+- [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+- [GitHub, Aan een project bijdragen](https://git-scm.com/book/nl/v2/GitHub-Aan-een-project-bijdragen) (laat je niet afschrikken door de command line code, jij kunt daar prima GitHub Desktop voor gebruiken!)
+- [Adaptable.io](https://adaptable.io/)
+- [Railway](https://railway.app/)
+
 ### Testen
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Zoals je weet gaat de testfase over jouw eindgebruikers.
 
-1. Doe een user-test met medestudenten of familieleden en noteer je bevindingen in de wiki.
+1. Doe een user-test met medestudenten of familieleden. Bereid de test voor met een testplan en noteer je plan én je bevindingen in de wiki.
 2. Doe een accessibility test met lighthouse - vergeet niet de handmatige tests uit te voeren - en noteer je bevindingen in de wiki.
 3. Doe een performance test met lighthouse en noteer je bevindingen in de wiki.
 4. Doe tenslotte een acceptatietest door jouw relatiegeschenk te presenteren aan de opdrachtgever en noteer je bevindingen in de wiki.
