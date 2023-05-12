@@ -19,39 +19,79 @@ Je werkt in een team van max. 3 frontenders aan een website voor een opdrachtgev
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 ### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
+In de analysefase ga je na of wat jullie vorige sprint hebben vastgelegd over  hoe jullie [samenwerken](#samenwerken) nog klopt. Je houdt een [brainstom](#brainstorm) over het te realiseren real-time product. Ook onderzoek je wat jullie gaan maken en maak je een [planning](#planning). 
+
+#### Samenwerken
+In de analysefase herzie je als team afspraken over hoe je gaat samenwerken.
+
+1. Fork deze leertaak en zet de _repository_ klaar voor het team zodat iedereen met dezelfde codebase kan werken. Kopieer de bestanden uit de vorige sprint en koppel Adaptable of Railway aan deze nieuwe omgeving. (Dit is handig omdat je de bewijslast uit vorige sprint intact laat.)
+3. Bekijk het Teamcanvas en vul het aan met eventuele inzichten uit de retrospect van vorige sprint, bespreek bijgestelde persoonlijke doelen met je teamgenoten. Loop als team de andere vlakken van het Teamcanvas na.
+5. Ga na welke afspraken jullie hadden over hoe jullie samenwerken, vul aan met nieuwe inzichten en leg de afspraken vast in de _wiki_.
+
+#### Materiaal voor samenwerken
+
+- [How to Collaborate on GitHub](https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)
+- [download het Team Canvas](https://github.com/fdnd-task/performance-matters-fast-website/blob/main/docs/Teamcanvas.pdf)
+- [Lees instructies over het gebruik van het Teamcanvas in de deeltaak uit sprint 1](https://github.com/fdnd-task/your-tribe-team-canvas)
+
+#### Brainstorm
+
+In deze sprint maak je als team een real-time toepassing om je opdrachtgever te verassen. We beginnen met een brainstorm om vast te stellen wat je gaat opleveren. Tip: Houd het klein en behapbaar.
 
 1. Houdt een brainstorm over het te realiseren realtime product
 2. Maak een morphological chart om systematisch ideeën te genereren
 3. Zorg dat je tenminste 10 ideeën hebt verzamelt voor je verder gaat.
 
+##### Materiaal voor de brainstorm
+
+#### Planning
+In de analysefase bespreek je als team welke werkzaamheden er zijn, wie wat gaat doen en maak je een planning.
+
+1. Koppel het _project board_ aan de nieuwe gezamenlijke _repository_ om bij te kunnen houden wie wat doet.
+2. Plan voor de aankomende weken alle standups en reviews en noteer de planning in jullie _project board_.
+3. Bekijk en bespreek álle _User Stories_ die bij het project horen. 
+4. Bespreek de _User Stories_ die jullie willen oppakken en bedenk wat je voor elke user story moet doen.
+5. Maak bij elke *User Story* meerdere taken aan in het *project board*, geef ze een prioriteit en voeg de namen toe van de mensen die eraan gaan werken. ProTip: Als taken te groot zijn (langer dan een dag duren) is het zinvol ze op te splitsen in meerdere kleinere taken.
+
+#### Materiaal planning
+
+- [About Githhub Projects, quickstart en best practices](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+- [Wat is een User Story?](https://agilescrumgroup.nl/wat-is-een-user-story/)
+- [What's Microproductivity?](https://blog.trello.com/microproductivity-break-tasks-into-smaller-steps)
+
 ### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen
 
 1. Kies onderbouwd een van de ideeën en maak daar een ontwerp voor
-2. Begin met het schetsen van wireframes, check die bij een docent en verbeter ze.
-3. Werk jouw wireframes uit in figma en link ze aan elkaar zodat een wireflow ontstaat.
+2. Begin met het schetsen van wireframes, check die bij medestudenten en docenten en verbeter ze met de nieuwe inzichten.
+3. Werk jouw wireframes uit in Figma en link ze aan elkaar zodat een digitale wireflow ontstaat.
 4. Maak de schematische weergave van de state van jouw applicatie in een process-flow.
 5. Laat zien welke socket verbindingen gelegd worden in een data-lifecycle diagram.
 
 ### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
+In de bouwfase realiseer je de beslissingen uit de ontwerpfase.
 
-1. Initialiseer een node/express/ejs omgeving en installeer socket.io
+1. Voeg socket.io toe aan aan je project met behulp van npm install.
 2. Zorg dat er serverside en client-side naar basis events geluisterd wordt.
 3. Implementeer in kleine stapjes de functionaliteit voor jouw toepassing. Deel als het nodig is de stapjes in met behulp van een docent.
 
-### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
+ProTip: Je kunt je functionaliteit het beste op een losse branch uitwerken, deze branch kan je als dev-project in Adaptable of Railway live brengen zodat je live kunt testen.
 
-1. Integreer jouw real-time web app in de bestaande website van de opdrachtgever (kopieer een losse webpagina op Github) zodat duidelijk wordt hoe jouw toepassing geïntegreerd kan worden.
-2. Publiceer jouw project via bijv. Vercel of Heroku
+### Integreren
+In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien en er op verder kan bouwen. 
+
+1. Integreer jouw real-time web app in de bestaande website van de opdrachtgever.
+2. Maak een *pull-request* voor de real-time functionaliteit.
+3. Handel het *pull-request* af, zorg voor een helder gedocumenteerd *pull-request* door bij de afhandeling relevante berichten te typen. Neem een screenshot van *pull-requests* op in je wiki!
+4. Publiceer jouw project via bijv. Adaptable of Railway (nb. cyclic ondersteund helaas geen sockets!)
 
 ### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
+In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Zoals je weet gaat de testfase over jouw eindgebruikers.
 
-1. Test jouw toepassing zorgvuldig
-2. Presenteer jouw relatiegeschenk aan de opdrachtgever.
+1. Doe een user-test met medestudenten of familieleden en noteer je bevindingen in de wiki.
+2. Doe een accessibility test met lighthouse - vergeet niet de handmatige tests uit te voeren - en noteer je bevindingen in de wiki.
+3. Doe een performance test met lighthouse en noteer je bevindingen in de wiki.
+4. Doe tenslotte een acceptatietest door jouw relatiegeschenk te presenteren aan de opdrachtgever en noteer je bevindingen in de wiki.
 
 ## Criteria
 *Definitions of done*
