@@ -6,7 +6,7 @@ Om de klantrelatie te bestendigen ontwikkel je bij wijze van relatiegeschenk een
 
 Deze leertaak hoort bij sprint 11 "Connecting People". Dit is een leertaak die je in een team uitvoert voor een opdrachtgever.
 
-In het college S11W1-01-Sprintplanning-Connecting-People en de workshop S11W1- en S11W1-02-My-first-chatroom wordt de opdracht en de werkwijze uitgelegd.
+In het college S11W1-01-Sprintplanning-Connecting-People en de workshop S11W1-02-My-first-chatroom wordt de opdracht en de werkwijze uitgelegd.
 
 ## Doel van deze opdracht
 
