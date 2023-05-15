@@ -42,7 +42,7 @@ In deze sprint maak je als team een real-time toepassing om je opdrachtgever te 
 
 1. Houdt een brainstorm over het te realiseren realtime product
 2. Maak een morphological chart om systematisch ideeën te genereren
-3. Zorg dat je tenminste 10 ideeën hebt verzamelt voor je verder gaat.
+3. Zorg dat je tenminste 10 ideeën hebt verzameld voor je verder gaat.
 
 ##### Materiaal voor de brainstorm
 
