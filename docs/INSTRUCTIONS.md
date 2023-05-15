@@ -46,6 +46,11 @@ In deze sprint maak je als team een real-time toepassing om je opdrachtgever te 
 
 ##### Materiaal voor de brainstorm
 
+De twee onderstaande video’s helpen je bij het gebruiken van de Morphological chart als design thinking tool voor het genereren van ideeën:re
+
+- [Design Thinking for Education, Ep. 3: Morphological Charts](https://www.youtube.com/watch?v=sO4R8yCF2iw)
+- [Initial ideas Morphological analysis](https://www.youtube.com/watch?v=ijsQgOUt9s8)
+
 #### Planning
 In de analysefase bespreek je als team welke werkzaamheden er zijn, wie wat gaat doen en maak je een planning.
 
