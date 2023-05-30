@@ -73,7 +73,7 @@ In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat
 2. Begin met het schetsen van wireframes, check die bij medestudenten en docenten en verbeter ze met de nieuwe inzichten.
 3. Werk jouw wireframes uit in Figma en link ze aan elkaar zodat een digitale wireflow ontstaat.
 4. Maak de schematische weergave van de state van jouw applicatie in een ~~process-flow~~ activity-diagram.
-~~5. Laat zien welke socket verbindingen gelegd worden in een data-lifecycle diagram.~~
+5. ~~Laat zien welke socket verbindingen gelegd worden in een data-lifecycle diagram.~~
 
 ### Bouwen
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase.
